@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtitle Importer", "Subtitle Importer\Subtitle Importer.csproj", "{F508B9F0-95FF-4D34-B13D-4465DE5FEEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F508B9F0-95FF-4D34-B13D-4465DE5FEEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F508B9F0-95FF-4D34-B13D-4465DE5FEEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F508B9F0-95FF-4D34-B13D-4465DE5FEEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F508B9F0-95FF-4D34-B13D-4465DE5FEEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74BAFC03-3461-43E1-A69A-22755CEB5C1C}
+	EndGlobalSection
+EndGlobal
